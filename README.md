@@ -13,7 +13,7 @@ Adjusted recipes and systems for improved mod compatibility
 Bug fixes and performance improvements
 
 Original Project
-This project is a fork of Hbm's Nuclear Tech Git by Fabs_gb.
+This project is a fork of Hbm's Nuclear Tech Git by HbmMods.
 
 The original mod was designed for Minecraft 1.7.10 and features a wide range of nuclear machines, reactors, weapons, and chemistry systems.
 
@@ -61,5 +61,5 @@ This project is licensed under the GNU General Public License v3.0 (GPL-3.0). So
 
 See the included LICENSE and LICENSE.LESSER files for full details.
 
-This fork was created and maintained by Fabs_gb, based on the original project by HbmMods.
+This fork was created and maintained by Fabsgb, based on the original project by HbmMods.
 
