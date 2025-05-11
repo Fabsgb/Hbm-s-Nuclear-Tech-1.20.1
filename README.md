@@ -40,10 +40,10 @@ Clone this repository:
      cd $HOME/Downloads
  ```
  ```bash
-     git clone https://github.com/HbmMods/Hbm-s-Nuclear-Tech-GIT.git
+     git clone https://github.com/Fabsgb/Hbm-s-Nuclear-Tech-1.20.1
  ```
  ```bash
-     cd Hbm-s-Nuclear-Tech-GIT
+     cd Hbm-s-Nuclear-Tech-1.20.1
  ```
  ```bash
      ./gradlew build
