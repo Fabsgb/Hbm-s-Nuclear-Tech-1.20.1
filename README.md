@@ -36,23 +36,18 @@ Install JDK 17 and Git
 
 Clone this repository:
 
-bash
-Kopieren
-Bearbeiten
-git clone https://github.com/your-username/your-repo-name.git
-Navigate to the project folder:
-
-bash
-Kopieren
-Bearbeiten
-cd your-repo-name
-Build the project using Gradle:
-
-bash
-Kopieren
-Bearbeiten
-./gradlew build
-The compiled .jar file will be located in build/libs.
+ ```bash
+     cd $HOME/Downloads
+ ```
+ ```bash
+     git clone https://github.com/HbmMods/Hbm-s-Nuclear-Tech-GIT.git
+ ```
+ ```bash
+     cd Hbm-s-Nuclear-Tech-GIT
+ ```
+ ```bash
+     ./gradlew build
+ ```
 
 Compatibility Notes
 This fork is designed specifically for Minecraft 1.20.1
