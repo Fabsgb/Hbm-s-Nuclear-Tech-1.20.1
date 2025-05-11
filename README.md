@@ -63,3 +63,5 @@ See the included LICENSE and LICENSE.LESSER files for full details.
 
 This fork was created and maintained by Fabsgb, based on the original project by HbmMods.
 
+ChatGPT made this Sh*t i don`t know
+
